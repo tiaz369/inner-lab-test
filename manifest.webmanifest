@@ -1,0 +1,20 @@
+{
+  "name": "Inner Lab",
+  "short_name": "Inner Lab",
+  "display": "standalone",
+  "start_url": "./",
+  "background_color": "#fbf6f1",
+  "theme_color": "#463255",
+  "icons": [
+    {
+      "src": "icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
